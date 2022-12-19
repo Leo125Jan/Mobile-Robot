@@ -15,9 +15,15 @@ These are checkpoint practices of class Mobile Robots.
 
 ## Usage
 
-* Vehicle
+### Check Point 1
 
-<a><img src="https://user-images.githubusercontent.com/98295556/193447710-9597a2ec-7d9e-443b-a3d4-129ad4f0ba4d.png" 
+* Purpose
+　　Setting the development environment for robot and using ROS system. First, you will need to produce the image for your raspberry pi and install ROS in it. Then use rosserial package to communicate between Raspberry pi and Arduino.
+
+* Result
+
+1. Check ID Address
+<a><img src="![image](https://user-images.githubusercontent.com/98295556/208383442-a486f6d4-ebe5-4d25-b45d-fe94cd53697d.png)" 
 width="640" height="360" border="10" /></a>
 
 * Moving
