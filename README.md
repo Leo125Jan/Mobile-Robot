@@ -60,8 +60,10 @@ width="480" height="270" border="10" /></a>
 
 * Result
 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=mCQ8oAgoN5k" target="_blank"><img src="http://img.youtube.com/vi/mCQ8oAgoN5k/0.jpg" 
+width="480" height="270" border="10" /></a>
 
-### Check Point 3
+### Check Point 4
 
 * Purpose
    The purpose of this checkpoint has two goals. First, making sure that our robot can detect a beacon signal and move towards it. Second, combine all the function as Obstacle Avoidance, Hockey Seeking (Light-ball detection) and Goal Seeking (IR signal receiving and moving toward goal) together for robot hockey contest.  
