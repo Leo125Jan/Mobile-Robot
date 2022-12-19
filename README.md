@@ -42,12 +42,30 @@ width="640" height="360" border="10" /></a>
 <a><img src="https://user-images.githubusercontent.com/98295556/208384582-ad84d8b8-321d-49fd-9d16-13034f623efc.png" 
 width="640" height="360" border="10" /></a>
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=ZFiw0HopYgI
-" target="_blank"><img src="http://img.youtube.com/vi/ZFiw0HopYgI/0.jpg" 
+### Check Point 2
+
+* Purpose  
+　　Motion Control of basic DC motors by encoder with Raspberry Pi and Arduino.
+
+* Result
+
+<a href="[http://www.youtube.com/watch?feature=player_embedded&v=--dSvMMTLqc]()" target="_blank"><img src="http://img.youtube.com/vi/--dSvMMTLqc/0.jpg" 
 width="480" height="270" border="10" /></a>
 
-* Room
+### Check Point 3
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=IhL14HzXzak
-" target="_blank"><img src="http://img.youtube.com/vi/IhL14HzXzak/0.jpg" 
-width="480" height="270" border="10" /></a>
+* Purpose  
+　　The purpose of this checkpoint is to make sure you can control your robot to move in the arena. The mobile robot needs to detect an obstacle in front of it and take action to avoid the obstacle in order to continue its motion.  
+　　Finally, your robot can find the assigned target. In this checkpoint, the target is a ring of LED lights.
+
+* Result
+
+
+### Check Point 3
+
+* Purpose
+   The purpose of this checkpoint has two goals. First, making sure that our robot can detect a beacon signal and move towards it. Second, combine all the function as Obstacle Avoidance, Hockey Seeking (Light-ball detection) and Goal Seeking (IR signal receiving and moving toward goal) together for robot hockey contest.  
+　　For this assignment, two infrared diodes will be set up at opposite ends of an arena. Each diode will be emitting light modulated at 38 𝐾𝐻𝑧, but their pulse width are different when received by IR receiver module.
+　　We need to demonstrate our robot’s capabilities under relaxed conditions with no other robots in the arena. The arena will be the actual contest arena.
+
+* Result
