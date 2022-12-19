@@ -23,7 +23,7 @@ These are checkpoint practices of class Mobile Robots.
 * Result
 
 1. Check ID Address
-<a><img src="![image](https://user-images.githubusercontent.com/98295556/208383442-a486f6d4-ebe5-4d25-b45d-fe94cd53697d.png)" 
+<a><img src="https://user-images.githubusercontent.com/98295556/208383442-a486f6d4-ebe5-4d25-b45d-fe94cd53697d.png)" 
 width="640" height="360" border="10" /></a>
 
 * Moving
@@ -37,7 +37,3 @@ width="480" height="270" border="10" /></a>
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=IhL14HzXzak
 " target="_blank"><img src="http://img.youtube.com/vi/IhL14HzXzak/0.jpg" 
 width="480" height="270" border="10" /></a>
-
-## License
-Distributed under the MIT License. 
-
