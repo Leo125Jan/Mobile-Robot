@@ -17,7 +17,7 @@ These are checkpoint practices of class Mobile Robots.
 
 ### Check Point 1
 
-* Purpose
+* Purpose  
 　　Setting the development environment for robot and using ROS system. First, you will need to produce the image for your raspberry pi and install ROS in it. Then use rosserial package to communicate between Raspberry pi and Arduino.
 
 * Result
