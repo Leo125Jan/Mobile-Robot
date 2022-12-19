@@ -27,7 +27,20 @@ These are checkpoint practices of class Mobile Robots.
 <a><img src="https://user-images.githubusercontent.com/98295556/208383705-a7a209de-800a-4493-a942-3d1ad8d291dc.png" 
 width="640" height="360" border="10" /></a>
 
-* Moving
+2. Remote Connection By MobaXterm
+
+<a><img src="https://user-images.githubusercontent.com/98295556/208384269-9a4a3088-87eb-42ba-9a5f-2facadeef601.png" 
+width="640" height="360" border="10" /></a>
+
+3. rqt_plot of node between Rpi and Arduino
+
+<a><img src="https://user-images.githubusercontent.com/98295556/208384468-406d533e-f587-46f0-bf52-1d1b2f6e70e3.png" 
+width="640" height="360" border="10" /></a>
+
+4. Communication Result
+
+<a><img src="https://user-images.githubusercontent.com/98295556/208384582-ad84d8b8-321d-49fd-9d16-13034f623efc.png" 
+width="640" height="360" border="10" /></a>
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=ZFiw0HopYgI
 " target="_blank"><img src="http://img.youtube.com/vi/ZFiw0HopYgI/0.jpg" 
