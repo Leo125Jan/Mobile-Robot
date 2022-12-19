@@ -1,0 +1,3 @@
+<launch>
+	<node pkg="mobile" type="rpi" name="rpi" output="screen"/>
+</launch>

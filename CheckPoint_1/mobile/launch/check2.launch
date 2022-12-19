@@ -1,0 +1,3 @@
+<launch>
+	<node pkg="mobile" type="mc" name="mc" output="screen"/>
+</launch>
