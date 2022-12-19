@@ -1,0 +1,8 @@
+<launch>
+	<node name="apriltag_obstacle_avoid" pkg="term_project" type="aoa" output="screen"/>
+<!--	
+	<node name="connect_arduino" pkg="rosserial_python" type="serial_node.py">
+		<param name="~port" type="string" value="/dev/ttyACM0" />
+	</node>
+-->
+</launch>
