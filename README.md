@@ -49,7 +49,7 @@ width="640" height="360" border="10" /></a>
 
 * Result
 
-<a href="[http://www.youtube.com/watch?feature=player_embedded&v=--dSvMMTLqc]()" target="_blank"><img src="http://img.youtube.com/vi/--dSvMMTLqc/0.jpg" 
+<a href="[http://www.youtube.com/watch?feature=player_embedded&v=--dSvMMTLqc]" target="_blank"><img src="http://img.youtube.com/vi/--dSvMMTLqc/0.jpg" 
 width="480" height="270" border="10" /></a>
 
 ### Check Point 3
