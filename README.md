@@ -78,20 +78,24 @@ width="480" height="270" border="10" /></a>
 ### Term Project - Follower Robot with Obstacle Aovidance
 
 * Abstract  
-    We make a follower robot with the functionality of obstacle avoidance. The robot will follow the target and avoid the obstacle on the road at the same time.  
+　　We make a follower robot with the functionality of obstacle avoidance. The robot will follow the target and avoid the obstacle on the road at the same time.  
 
 * Acknowledgement  
 [AMNshaw/mobile_robot](https://github.com/AMNshaw/mobile_robot)
 
 * Result  
 
-  * Follower Robot  
+    * Follower Robot  
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=LJ-HknhwBtk" target="_blank"><img src="http://img.youtube.com/vi/LJ-HknhwBtk/0.jpg" 
 width="480" height="270" border="10" /></a>
 
+    * Obstacle Avoidance  
 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=0nmB6hvIK1" target="_blank"><img src="http://img.youtube.com/vi/0nmB6hvIK1/0.jpg" 
+width="480" height="270" border="10" /></a>
 
-
-
-
+    * Follower Robot with Obstacle Avoidance
+    
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=hiY8583SR0E" target="_blank"><img src="http://img.youtube.com/vi/hiY8583SR0E/0.jpg" 
+width="480" height="270" border="10" /></a>
