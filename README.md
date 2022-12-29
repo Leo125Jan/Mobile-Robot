@@ -80,10 +80,10 @@ width="480" height="270" border="10" /></a>
 * Abstract  
     We make a follower robot with the functionality of obstacle avoidance. The robot will follow the target and avoid the obstacle on the road at the same time.  
 
-* Acknowledgement
+* Acknowledgement  
 [AMNshaw/mobile_robot](https://github.com/AMNshaw/mobile_robot)
 
-* Result
+* Result  
 
   * Follower Robot  
 
