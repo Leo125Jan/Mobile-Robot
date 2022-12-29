@@ -77,7 +77,7 @@ width="480" height="270" border="10" /></a>
 
 ### Term Project - Follower Robot with Obstacle Aovidance
 
-* Abstract 
+* Abstract  
     We make a follower robot with the functionality of obstacle avoidance. The robot will follow the target and avoid the obstacle on the road at the same time.  
 
 * Acknowledgement
