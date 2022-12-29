@@ -85,17 +85,17 @@ width="480" height="270" border="10" /></a>
 
 * Result  
 
-    * Follower Robot  
+* Follower Robot  
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=LJ-HknhwBtk" target="_blank"><img src="http://img.youtube.com/vi/LJ-HknhwBtk/0.jpg" 
 width="480" height="270" border="10" /></a>
 
-    * Obstacle Avoidance  
+* Obstacle Avoidance    
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=0nmB6hvIK1" target="_blank"><img src="http://img.youtube.com/vi/0nmB6hvIK1/0.jpg" 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=0nmB6hvIK1I" target="_blank"><img src="http://img.youtube.com/vi/0nmB6hvIK1I/0.jpg" 
 width="480" height="270" border="10" /></a>
 
-    * Follower Robot with Obstacle Avoidance
+* Follower Robot with Obstacle Avoidance  
     
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hiY8583SR0E" target="_blank"><img src="http://img.youtube.com/vi/hiY8583SR0E/0.jpg" 
 width="480" height="270" border="10" /></a>
