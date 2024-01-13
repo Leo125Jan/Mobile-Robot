@@ -78,7 +78,11 @@ width="480" height="270" border="10" /></a>
 ### Term Project - Follower Robot with Obstacle Aovidance
 
 * Abstract  
-　　We make a follower robot with the functionality of obstacle avoidance. The robot will follow the target and avoid the obstacle on the road at the same time.  
+　　We make a follower robot with the functionality of obstacle avoidance. The robot will follow the target and avoid the obstacle on the road at the same time. Implemented by transforming the requirement of tracking and avoidance into the constraints of CBF.
+
+  ![CBF_2](https://github.com/Leo125Jan/Mobile-Robot/assets/98295556/8be0cdce-25a5-4efa-a572-a2a62ad4c9e0)
+
+  ![CBF_1](https://github.com/Leo125Jan/Mobile-Robot/assets/98295556/980cd5eb-6288-46fe-aece-2b1a890ebf07)
 
 * Built with
 
